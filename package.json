@@ -1,15 +1,21 @@
 {
-  "name": "slack-server",
+  "name": "etsy_clone",
   "version": "1.0.0",
-  "description": "",
+  "description": "etsy clone",
   "main": "index.js",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "etsy",
+    "clone",
+    "etsy",
+    "clone",
+    "ecommerce"
+  ],
   "author": "Chang",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
